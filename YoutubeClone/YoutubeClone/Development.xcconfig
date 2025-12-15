@@ -1,0 +1,11 @@
+//
+//  Development.xcconfig
+//  YoutubeClone
+//
+//  Created by DHEERAJ on 12/12/25.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://developer.apple.com/documentation/xcode/adding-a-build-configuration-file-to-your-project
+
+TMDB_API_KEY = "314e0eb364154825e10072833dc9c184"
